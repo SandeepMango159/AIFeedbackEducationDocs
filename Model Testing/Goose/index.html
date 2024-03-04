@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>GPT-Neo 125m - AI Feedback</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "GPT-Neo 125m";
+        var mkdocs_page_input_path = "Model Testing\\Goose.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> AI Feedback
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../about/">About</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Student%20Asks/Biology/Comparison/">Student Asks - Biology English Open Ended</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Student%20Asks/Dutch/Grammar/Comparison/">Student Asks - Dutch Grammar Closed Ended</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../discoveries/">Discoveries and Research</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">AI Feedback</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">GPT-Neo 125m</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="gpt-neo-125m">GPT-Neo 125m</h1>
+<ul>
+<li>Enkel voor continue text generation, niet conversation? </li>
+</ul>
+<h2 id="voor-student-asks-feedback-full">Voor student asks feedback full:</h2>
+<ul>
+<li>Token indices sequence length is longer than the specified maximum sequence length for this model (3539 &gt; 2048). Running this sequence through the model will result in indexing errors
+Truncation was not explicitly activated but <code>max_length</code> is provided a specific value, please use <code>truncation=True</code> to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to <code>truncation</code>.
+Setting <code>pad_token_id</code> to <code>eos_token_id</code>:50256 for open-end generation.</li>
+</ul>
+<h2 id="voor-teacher-create-template-result-is">Voor teacher create template, result is:</h2>
+<p>the world's resources.</p>
+<p>The world's resources are the resources of the earth.</p>
+<p>The world's resources are the resources of the earth.</p>
+<p>The world's resources are the resources of the earth.</p>
+<p>The world's</p>
+<h2 id="settings">Settings</h2>
+<ul>
+<li>check hier settings: 1130
+https://happytransformer.com/text-generation/settings/</li>
+<li>sommige zijn beter voor creativity, enz ok 1132</li>
+</ul>
+<h2 id="met-args-nrepeat-2-1129">Met args nrepeat 2: 1129</h2>
+<ul>
+<li>Introduction</li>
+<li>Body</li>
+<li>
+<p>Introduction</p>
+</li>
+<li>
+<p>sommige zijn beter voor creativity, enz </p>
+</li>
+</ul>
+<h2 id="met-top-k-sampling">Met top k sampling:</h2>
+<p>I want you to give me a solution one by one, and each time I'll give feedback to that solution. I'll say wether the solution is good or bad. After that, please send your next solution.</p>
+<h2 id="kan-ook-ding-trainen">Kan ook ding trainen...</h2>
+<p>https://happytransformer.com/learning-parameters/
+Enige dat nodig is is een file met de tekst, niks anders... 
+<code>happy_gen.train("train.txt")</code>
+<code>from happytransformer import GENTrainArgs</code></p>
+<h1 id="gpt-neo-15b">GPT Neo 1.5B</h1>
+<p>Google collab met T4 GPU</p>
+<h2 id="voor-student-asks-feedback-full_1">Voor student asks feedback full:</h2>
+<p>Same:
+Token indices sequence length is longer than the specified maximum sequence length for this model (3539 &gt; 2048). Running this sequence through the model will result in indexing errors
+Truncation was not explicitly activated but <code>max_length</code> is provided a specific value, please use <code>truncation=True</code> to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to <code>truncation</code>.
+Setting <code>pad_token_id</code> to <code>eos_token_id</code>:50256 for open-end generation.</p>
+<h2 id="voor-teacher-create-template-result-is_1">Voor teacher create template, result is:</h2>
+<p>I hope this helps you. Please feel free to ask me any questions you may have.</p>
+<p>Thank you for your time.</p>
+<p>Best regards,</p>
+<p>Dr.</p>
+<p>Dr.</p>
+<p>Dr.</p>
+<p>Dr</p>
+<h2 id="settings_1">Settings</h2>
+<h2 id="met-args-nrepeat-2">Met args nrepeat 2:</h2>
+<p>If you have any questions, feel free to ask me. </p>
+<h2 id="met-top-k-sampling_1">Met top k sampling:</h2>
+<p>How to write a paper:</p>
+<ol>
+<li>
+<p>Choose an organism/species of your choice. This could be a species you're familiar with or one that interests you.</p>
+</li>
+<li>
+<p>Research: Conduct research on your chosen organism, focusing</p>
+</li>
+</ol>
+<h1 id="gpt-neo-27b">GPT Neo 2.7B</h1>
+<p>Google collab met T4 GPU</p>
+<h2 id="voor-student-asks-feedback-full_2">Voor student asks feedback full:</h2>
+<p>Same:
+Token indices sequence length is longer than the specified maximum sequence length for this model (3539 &gt; 2048). Running this sequence through the model will result in indexing errors
+Truncation was not explicitly activated but <code>max_length</code> is provided a specific value, please use <code>truncation=True</code> to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to <code>truncation</code>.
+Setting <code>pad_token_id</code> to <code>eos_token_id</code>:50256 for open-end generation.</p>
+<h2 id="voor-teacher-create-template-result-is_2">Voor teacher create template, result is:</h2>
+<p>I hope this helps you. Please feel free to ask me any questions you may have.</p>
+<p>Thank you for your time.</p>
+<p>Best regards,</p>
+<p>Dr.</p>
+<p>Dr.</p>
+<p>Dr.</p>
+<p>Dr</p>
+<h2 id="settings_2">Settings</h2>
+<h2 id="met-args-nrepeat-2_1">Met args nrepeat 2:</h2>
+<p>If you have any questions, feel free to ask me. </p>
+<h2 id="met-top-k-sampling_2">Met top k sampling:</h2>
+<p>How to write a paper:</p>
+<ol>
+<li>
+<p>Choose an organism/species of your choice. This could be a species you're familiar with or one that interests you.</p>
+</li>
+<li>
+<p>Research: Conduct research on your chosen organism, focusing</p>
+</li>
+</ol>
+              
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+site_name: AI Feedback
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Student Asks - Biology English Open Ended: "Student Asks/Biology/Comparison.md"
+  - Student Asks - Dutch Grammar Closed Ended: "Student Asks/Dutch/Grammar/Comparison.md"
+  - Discoveries and Research: "discoveries.md"
+
+theme: readthedocs

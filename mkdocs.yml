@@ -86,7 +86,7 @@ markdown_extensions:
       line_spans: __span
       # adds language highlighting
       pygments_lang_class: true
-  
+
   # enables admonitions 
   - admonition
   # adds inline code highlighting
@@ -97,3 +97,5 @@ markdown_extensions:
   - pymdownx.superfences
   # adds ability to add collapsible note blocks/admonitions
   - pymdownx.details
+  - toc:
+      permalink: true

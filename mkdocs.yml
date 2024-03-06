@@ -3,8 +3,26 @@ site_name: AI Feedback
 nav:
   - Home: index.md
   - About: about.md
-  - Student Asks - Biology English Open Ended: "Student Asks/Biology/Comparison.md"
-  - Student Asks - Dutch Grammar Closed Ended: "Student Asks/Dutch/Grammar/Comparison.md"
+  
+  - Student Asks:
+    - Biology Course:
+      - Dutch: "Student Asks/Biology/Dutch/Comparison.md"
+      - English: "Student Asks/Biology/English/Comparison.md"
+    - Dutch Course: 
+      - Grammar: 
+        - Dutch: "Student Asks/Dutch/Grammar/Comparison.md"
+        - English: "Student Asks/Dutch/Grammar/Comparison.md"
+    - History Course:
+      - English: "Student Asks/History/Dutch/Comparison.md"
+      - Dutch: "Student Asks/History/English/Comparison.md"
+
+  
+  # Conversation section with a page 0 and page 1
+  - Conversations:
+    - Page 2: "Model Testing/Mistral/Student Asks/Mistral Large Chat - Student Asks Feedback v0.md"
+    - Page 1: "Model Testing/Mistral/Student Asks/Mistral Next Chat - Student Asks Feedback v0.md"
+    - Convo admonitions: "Student Asks/Dutch/Grammar/Prompt/Grammar Tests Prompt Generation Convo.md"
+  
   - Discoveries and Research: "discoveries.md"
 
 theme: 

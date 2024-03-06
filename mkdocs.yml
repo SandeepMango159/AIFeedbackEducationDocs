@@ -58,6 +58,9 @@ theme:
     # adds back to top button
     - navigation.top
 
+    # adds the sections without dropdown
+    - navigation.sections
+
     # Serch auto completion, accept with right key 
     - search.suggest
 
@@ -70,7 +73,7 @@ theme:
     # allows user to cocpy the code, handy 
     - content.code.copy
 
-    # vergeten
+    # Scrolls the contentbar automatically to follow the active section etc
     - toc.follow
 
 extra_css:

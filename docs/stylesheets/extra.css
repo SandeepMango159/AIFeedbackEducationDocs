@@ -1,0 +1,51 @@
+/* :root { */
+
+  /* --md-primary-fg-color:        white; */
+  /* --md-primary-fg-color--light: brown; */
+  /* --md-primary-fg-color--dark:  yellow; */
+
+  /* --md-primary-bg-color: red;  */
+  /* --md-primary-bg-color--light: green; */
+
+    /* --md-primary-fg-color:        #232533; */
+    /* --md-primary-fg-color--light: #03a9f4;   */
+    /* --md-primary-fg-color--dark:  #348fff;  */
+    /* --md-accent-fg-color: #348fff; */
+
+/* } */
+
+
+/* 
+background #232533 !important
+
+active nav #03a9f4 !important
+
+scrollbar-color: #348fff #282a39; */
+
+/* Css for the admonitions (small tooltips etc) */
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}
+
+/* Wrapt collapsable quote admonitions  */
+details.quote code {
+  white-space : pre-wrap !important;
+}
+
+
+@media screen and (min-width: 1220px) {
+/* Max width van de site basically */
+.md-grid {
+  max-width: 1650px; 
+} 
+}
+
+
+@media screen and (min-width: 1921px) {
+/* Max width van de site basically */
+.md-grid {
+  max-width: 1950px; 
+} 
+}

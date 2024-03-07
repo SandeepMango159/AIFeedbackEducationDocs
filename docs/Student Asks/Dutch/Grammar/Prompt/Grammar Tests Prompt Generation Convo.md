@@ -20,6 +20,8 @@ This convo was used to generate a grammar test prompt in GRammar Test Prompt.md
     Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
     ```
 
+#### lol 
+
 ### User
 ???+ quote
 
@@ -169,4 +171,488 @@ b. "Als ik je zou zien, zou ik jou helpen."
 
 ### Assistant
 
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+
+### User
+???+ quote
+
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+      
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+    
+    Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+
+    ??? quote "Raw"
+        ``` text
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
+        Hallo, ik ben een leerkracht voor het vak nederlands voor een middelbare school, dus kinderen tussen 12-18 jaar oud, met een redelijke wetenschappelijke achtergrond en educatie. Jij bent mijn assistent voor dit vak. Maak een nederlandse grammatica test en geef daarna ook de oplossing aan mij.
+        
 

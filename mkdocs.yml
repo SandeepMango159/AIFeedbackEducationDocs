@@ -55,6 +55,9 @@ theme:
     # breadcrumb nav 
     - navigation.path
     
+    # expands navigation on the side automatically
+    - navigation.expand
+
     # adds back to top button
     - navigation.top
 

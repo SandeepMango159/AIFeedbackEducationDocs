@@ -5,9 +5,11 @@ nav:
   - About: about.md
   
   - Student Asks:
+    - "Student Asks/Student Asks.md"
     - Biology Course:
-      - Dutch: "Student Asks/Biology/Dutch/Comparison.md"
-      - English: "Student Asks/Biology/English/Comparison.md"
+      - Adaptation Analysis Assignment:
+        - Dutch: "Student Asks/Biology/Adaptation Analysis Assignment/Dutch/Comparison.md"
+        - English: "Student Asks/Biology/Adaptation Analysis Assignment/English/Comparison.md"
     - Dutch Course: 
       - Grammar: 
         - Dutch: "Student Asks/Dutch/Grammar/Comparison.md"

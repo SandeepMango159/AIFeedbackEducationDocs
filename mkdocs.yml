@@ -3,60 +3,62 @@ site_name: AI Feedback
 nav:
   - Home: index.md
   - About: about.md
-  
+
   - Student Asks:
-    - "Student Asks/Student Asks.md"
+    - "Student Asks/Student Asks Index.md"
     - Biology Course:
       - Adaptation Analysis Assignment:
+        - "Student Asks/Biology/Adaptation Analysis Assignment/index.md"
         - Dutch: "Student Asks/Biology/Adaptation Analysis Assignment/Dutch/Comparison.md"
         - English: "Student Asks/Biology/Adaptation Analysis Assignment/English/Comparison.md"
-    - Dutch Course: 
-      - Grammar: 
+    - Dutch Course:
+      - Grammar:
         - Dutch: "Student Asks/Dutch/Grammar/Comparison.md"
         - English: "Student Asks/Dutch/Grammar/Comparison.md"
     - History Course:
       - English: "Student Asks/History/Dutch/Comparison.md"
       - Dutch: "Student Asks/History/English/Comparison.md"
 
-  
+
   # Conversation section with a page 0 and page 1
   - Conversations:
     - Page 2: "Model Testing/Mistral/Student Asks/Mistral Large Chat - Student Asks Feedback v0.md"
     - Page 1: "Model Testing/Mistral/Student Asks/Mistral Next Chat - Student Asks Feedback v0.md"
     - Convo admonitions: "Student Asks/Dutch/Grammar/Prompt/Grammar Tests Prompt Generation Convo.md"
-  
+
   - Discoveries and Research: "discoveries.md"
 
-theme: 
+theme:
   name: material
   palette:
     # Dark mode
     - scheme: slate
-    # To switch to light mode 
+    # To switch to light mode
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: custom
-      # accent: red
 
     # Light mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-  font: 
+  font:
     text: Roboto
   language: en
   features:
-  # With anchor tracking the URL in the address bar is automatically updated with the active anchor as highlighted in the table of contents. 
+  # With anchor tracking the URL in the address bar is automatically updated with the active anchor as highlighted in the table of contents.
     - navigation.tracking
     # Puts nav tabs at the top instead of side, and sticky
     - navigation.tabs
     - navigation.tabs.sticky
-    
-    # breadcrumb nav 
+
+    # breadcrumb nav
     - navigation.path
-    
+
+    # add page directly to section index pages for overview pages
+    - navigation.indexes
+
     # expands navigation on the side automatically
     - navigation.expand
 
@@ -66,16 +68,16 @@ theme:
     # adds the sections without dropdown
     - navigation.sections
 
-    # Serch auto completion, accept with right key 
+    # Serch auto completion, accept with right key
     - search.suggest
 
-    # highlights the search results on the page 
-    - search.highlight 
+    # highlights the search results on the page
+    - search.highlight
 
-    # add content to codeblocks like special kinds of comments etc 
-    - content.code.annotate 
+    # add content to codeblocks like special kinds of comments etc
+    - content.code.annotate
 
-    # allows user to cocpy the code, handy 
+    # allows user to cocpy the code, handy
     - content.code.copy
 
     # Scrolls the contentbar automatically to follow the active section etc
@@ -95,13 +97,13 @@ markdown_extensions:
       # adds language highlighting
       pygments_lang_class: true
 
-  # enables admonitions 
+  # enables admonitions
   - admonition
   # adds inline code highlighting
   - pymdownx.inlinehilite
   # ability to use include other files in other files
   - pymdownx.snippets
-  # adds abiility to nest code and content bloscks inside of eachother 
+  # adds abiility to nest code and content bloscks inside of eachother
   - pymdownx.superfences
   # adds ability to add collapsible note blocks/admonitions
   - pymdownx.details

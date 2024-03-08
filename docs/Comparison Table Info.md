@@ -42,7 +42,8 @@ The model does not see words but it sees tokens, which is a different representa
 
 ## Review
 
-#
+## Nr of samples
+How many times we asked the model to give feedback on the assignment.
 
 #
 

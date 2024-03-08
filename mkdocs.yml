@@ -26,7 +26,7 @@ nav:
     - Page 1: "Model Testing/Mistral/Student Asks/Mistral Next Chat - Student Asks Feedback v0.md"
     - Convo admonitions: "Student Asks/Dutch/Grammar/Prompt/Grammar Tests Prompt Generation Convo.md"
 
-  - Discoveries and Research: "discoveries.md"
+  - Discoveries and Research: "Discoveries/discoveries.md"
 
 theme:
   name: material

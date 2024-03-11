@@ -28,6 +28,11 @@ nav:
     - Convo admonitions: "Student Asks/Dutch/Grammar/Prompt/Grammar Tests Prompt Generation Convo.md"
 
   - Discoveries and Research: "Discoveries/discoveries.md"
+  - Guides:  
+    # A Parameters guide page to show what in general are the best paramters we found...
+    - Parameters Guide: "Guide/Parameters Guide.md"
+    # Workflow page that explains how to add new stuff to the site
+    - Workflow Guide: "Guide/Workflow Guide.md"
 
 theme:
   name: material
